@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langchain-huggingface
+google-generativeai
+pinecone-client
+pydantic
+sentence-transformers
+google-api-core
+slowapi
+langchain-community
+python-dotenv
+
+
+
+
+
